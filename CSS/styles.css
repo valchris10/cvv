@@ -1,0 +1,179 @@
+
+body{
+  color: #40514E;
+  margin:0;
+ font-family: Helvetica, serif;
+}
+
+section{
+text-align: center;
+}
+
+h1{
+ margin: 50px auto 0 auto;
+ font-size: 5.62rem;
+ color: #66bfbf;
+ line-height: 2;
+ font-family: dearlove, Helvetica, serif;
+}
+
+h2{
+ font-family: Helvetica, serif;
+ font-size: 2.5rem;
+   color: #66bfbf;
+   font-weight: normal;
+}
+
+h3{
+ font-family: Helvetica, serif;
+ color: #11999E;
+}
+p{
+
+ margin:auto;
+}
+img{
+ width: 50%
+}
+
+hr{
+  border: dotted gray 6px;
+  width:6%;
+  margin: 50px auto;
+  border-bottom: none;
+  background-color: #ffff
+
+}
+
+a{
+  color: #11999E;
+  margin: auto 20px;
+  text-decoration: none;
+}
+.intro-text{
+  width: 30%;
+  line-height: 2;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+
+ .top{
+   position: relative;
+   padding-top: 100px;
+  background-color: #E4f9f5;
+  margin:0;
+  padding-bottom: 60px;
+}
+
+
+.skill-desc{
+text-align: center;
+
+}
+
+.middle{
+background-color: #ccf1e321;
+/* padding-top: 100px; */
+}
+
+.bottom{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+
+}
+
+.top-whale{
+  position: absolute;
+  right: 100px;
+  width:100px;
+}
+
+.bottom-whale{
+  position: absolute;
+  left: 100px;
+  top: 400px;
+  width:10%;
+}
+
+.passport{
+  border-radius: 100%;
+  width: 100px;
+
+}
+
+.profile{
+  padding: 60px 0 40px 0;
+  background-color:#ccf1e321;
+  margin:auto;
+}
+
+.giftbox{
+  width: 20%;
+  height: 60%;
+  position: absolute;
+  right: 30px;
+}
+
+.design-hand{
+  float: left;
+  /* border-radius: 70%; */
+  width: 40%;
+  height:80%;
+  top: 40px;
+  margin-right: 25px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.cam-slider{
+  float: right;
+  width: 40%;
+  padding-left: 25px;
+}
+
+.web-desk{
+  float: left;
+  margin-right:25px;
+  width: 40%;
+  margin-bottom: 60px;
+
+
+}
+
+
+
+.skills{
+background-color: #ffff;
+padding: 40px 0;
+}
+
+.skills-row{
+margin:100px auto ;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.contact-message{
+  width:40%;
+  line-height: 2;
+  margin: 40px auto 60px;
+}
+
+.contact-me{
+  padding-bottom: 40px;
+}
+.btn{
+  padding-bottom:20px;
+  margin-bottom: 50px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
